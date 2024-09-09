@@ -1,4 +1,4 @@
-# Final Project of Dvelopers Institute Data Analytics Bootcamp
+# Final Project of the Developers Institute Data Analytics Bootcamp Course
 
 ### Data Source  
 https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-citi-bike
