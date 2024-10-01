@@ -4,7 +4,7 @@
 https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-citi-bike
 
 ### Data Description 
-The dataset includes data on 58,937,715 trips since 2013.
+The full dataset includes data on 58,937,715 trips since 2013. The data used for the project is for 2018 only (16,5 millions rows).
 
 ### Scope
 SQL(BigQuery), Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Tableau
